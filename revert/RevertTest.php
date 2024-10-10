@@ -1,0 +1,2 @@
+<?php
+$text = "new text";
